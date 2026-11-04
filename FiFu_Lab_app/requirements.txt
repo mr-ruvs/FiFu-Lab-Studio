@@ -1,0 +1,5 @@
+# Dependencias principales para FiFuLab Studio
+PySide6>=6.5.0
+numpy>=1.24.0
+pyserial>=3.5
+pyqtgraph>=0.13.0
